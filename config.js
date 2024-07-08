@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = '@⁨«{>𝕩Elbarto Senpai <}»⁩'
+global.ownername = '@⁨«{>𝕩⏤͟͞★⃝ꪶ‎𓆩𝖉𝖊𝖒𝖒𝖞〆͎⁶⁶⸙✪͜͡➺•<}»⁩'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['2349159807687']
-global.premium = ['2349159807687']
+global.owner = ['2349165237782']
+global.premium = ['2349165237782']
 global.packname = 'The barto bot'
-global.author = 'WhatsApp Bot'
+global.author = '⏤͟͞★⃝ꪶ‎𓆩𝖉𝖊𝖒𝖒𝖞〆͎⁶⁶⸙✪͜͡➺•'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🚬','🗿']
